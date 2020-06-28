@@ -1,0 +1,6 @@
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\obj\Debug\GettingRepeated.csproj.CoreCompileInputs.cache
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\bin\Debug\GettingRepeated.exe.config
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\bin\Debug\GettingRepeated.exe
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\bin\Debug\GettingRepeated.pdb
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\obj\Debug\GettingRepeated.exe
+C:\Users\qd\source\repos\GettingRepeated\GettingRepeated\obj\Debug\GettingRepeated.pdb
