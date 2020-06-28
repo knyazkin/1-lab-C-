@@ -11,66 +11,61 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            
-            
-            string[] str=File.ReadAllLines("aaa.txt");
-            int[] vals = new int[str.Length];
-            
-            for(int i=0; i<vals.Length; i++)
-            {
-                vals[i]=Int32.Parse(str[i]);
-            }
-
-            int temp;
-            for (int i = 0; i < vals.Length-1; i++)
-            {
-                for (int j = i + 1; j < vals.Length; j++)
-                {
-                    if (vals[i] > vals[j])
-                    {
-                        temp = vals[i];
-                        vals[i] = vals[j];
-                        vals[j] = temp;
-                    }
-                }
-            }
+// считываем значения и инициализируем массив
+            string[] str=File.ReadAllLines("input.txt");
 
             list[] arr = new list[str.Length];
             
             for(int i=0; i < arr.Length; i++)
             {
                 arr[i]=new list();
-                arr[i].setVal(vals[i]);
+                arr[i].setVal(Int32.Parse(str[i]));
+            }
+// сортировка значений
+            int temp;
+            for (int i = 0; i < arr.Length-1; i++)
+            {
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[i].getVal() > arr[j].getVal())
+                    {
+                        temp = arr[i].getVal();
+                        arr[i].setVal(arr[j].getVal());
+                        arr[j].setVal(temp);
+                    }
+                }
+            }
+
+// проверка на дубликаты            
+            for (int i=0; i<arr.Length-1; i++)
+            {
+                if (arr[i].getVal()==arr[i+1].getVal())
+                {
+                    if(arr[i].getDupl()==false) arr[i].setDupl(true);
+                    arr[i+1].setDupl(true);
+                }
             }
             
-            Console.WriteLine("Вывод отсортированного массива");
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine(arr[i].getVal());
-            }
+// запись только дубликатов
+            var text = new StreamWriter("output.txt");
 
-            //Console.WriteLine(arr[4].getVal());
-            
-
-
-            /*Console.WriteLine("Введите текст:");
-            string text = Console.ReadLine();
-            Console.WriteLine("Введите файл для редактирования:");
-            string file_name = Console.ReadLine();
-            File.WriteAllText(file_name,text);
-            */
-            /*
-            for (int i = 0; i<5; i++)
+            for (int i=0;i<arr.Length;i++)
             {
-                arr[i].value = "i";
+                if (arr[i].getDupl()==false)
+                {
+                    continue;
+                }
+                else
+                {
+                    if (arr[i].getVal()==arr[i+1].getVal())
+                    {
+                        continue;
+                    }
+                    else text.Write(arr[i].getVal());
+                }
+                text.WriteLine();
             }
-            */
-            /*=File.ReadAllLines("aaa.txt");
-            for(int i=0;i<6;i++)
-            {
-                Console.WriteLine(file_name[i]);
-            }
-            */
+            text.Close();
         }
     }
 }
