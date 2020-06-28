@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\b\practic_1\bin\Debug\practic_1.exe.config
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\b\practic_1\bin\Debug\practic_1.exe
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\practic_1\Debug\practic_1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\practic_1\Debug\practic_1.csproj.CopyComplete
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\practic_1\Debug\practic_1.exe
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\practic_1\Debug\practic_1.csprojAssemblyReference.cache

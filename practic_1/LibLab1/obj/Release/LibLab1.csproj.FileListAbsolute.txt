@@ -1,4 +1,0 @@
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\LibLab1\bin\Release\LibLab1.dll
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\LibLab1\bin\Release\LibLab1.pdb
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\LibLab1\obj\Release\LibLab1.dll
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\LibLab1\obj\Release\LibLab1.pdb

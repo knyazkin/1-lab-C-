@@ -1,5 +1,0 @@
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
