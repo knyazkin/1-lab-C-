@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\b\UnitTestProject1\bin\Debug\UnitTestLab1.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\UnitTestPractic_1\Debug\UnitTestLab1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\UnitTestPractic_1\Debug\UnitTestPractic_1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\UnitTestPractic_1\Debug\UnitTestPractic_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\UnitTestPractic_1\Debug\UnitTestPractic_1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\.vs\practic_1\v16\lut\0\i\UnitTestPractic_1\Debug\UnitTestLab1.dll

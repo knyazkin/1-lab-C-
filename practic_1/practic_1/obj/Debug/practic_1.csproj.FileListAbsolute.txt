@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2013\Projects\practic_1\practic_1\bin\Debug\practic_1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\practic_1\practic_1\bin\Debug\practic_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\practic_1\practic_1\bin\Debug\practic_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\practic_1\practic_1\obj\Debug\practic_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\practic_1\practic_1\obj\Debug\practic_1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\practic_1\practic_1\bin\Debug\LibLab1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\practic_1\practic_1\bin\Debug\LibLab1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\practic_1\practic_1\obj\Debug\practic_1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\LibLab1.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\LibLab1.pdb
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.exe.config
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.exe
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\practic_1.pdb
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\LibLab1.dll
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\bin\Debug\LibLab1.pdb
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.csprojAssemblyReference.cache
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.csproj.CopyComplete
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.exe
+E:\Новая папка\раб стол\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 1\practic_1\practic_1\obj\Debug\practic_1.csproj.CopyComplete
