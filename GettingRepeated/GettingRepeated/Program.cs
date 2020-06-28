@@ -63,8 +63,8 @@ namespace GettingRepeated
         static void Main(string[] args)
         {
             int[] num;
-            string path = @"C:\cnew\input.txt";
-            string wpath = @"C:\cnew\output.txt";
+            string path = @"..\input.txt";
+            string wpath = @"..\output.txt";
             string line;
             using (StreamReader sr = new StreamReader(path, Encoding.Default))
             {
